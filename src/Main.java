@@ -14,11 +14,6 @@ public class Main {
         System.out.println(message3 + message4 + "\n");
 
 
-
-
-
-
-
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
